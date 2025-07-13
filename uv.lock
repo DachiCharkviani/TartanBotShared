@@ -3952,7 +3952,7 @@ wheels = [
 ]
 
 [[package]]
-name = "tartanadvisor"
+name = "bartanadvisor"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [

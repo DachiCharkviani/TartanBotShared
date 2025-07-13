@@ -1,5 +1,5 @@
 [project]
-name = "tartanadvisor"
+name = "bartanadvisor"
 version = "0.1.0"
 description = "TartanAdvisor using crewAI"
 authors = [{ name = "Your Name", email = "you@example.com" }]
@@ -9,9 +9,9 @@ dependencies = [
 ]
 
 [project.scripts]
-kickoff = "tartanadvisor.main:kickoff"
-run_crew = "tartanadvisor.main:kickoff"
-plot = "tartanadvisor.main:plot"
+kickoff = "bartanadvisor.main:kickoff"
+run_crew = "bartanadvisor.main:kickoff"
+plot = "bartanadvisor.main:plot"
 
 [build-system]
 requires = ["hatchling"]

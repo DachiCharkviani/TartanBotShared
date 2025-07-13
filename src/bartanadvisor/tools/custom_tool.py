@@ -5,7 +5,7 @@ import numpy as np
 from typing import Dict, Any, Callable, List, Optional, Type, ClassVar
 from pydantic import PrivateAttr, ConfigDict
 from langchain.schema import Document
-from tartanadvisor.faiss_store import search_advising, search_courses
+from bartanadvisor.faiss_store import search_advising, search_courses
 
 class MyCustomToolInput(BaseModel):
     """Input schema for MyCustomTool."""

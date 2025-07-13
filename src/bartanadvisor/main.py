@@ -3,9 +3,9 @@
 import os
 
 from dotenv import load_dotenv
-from tartanadvisor.crews.bio_crew.bio_crew import BioCrew
-from tartanadvisor.crews.business_crew.business_crew import BusinessCrew
-from tartanadvisor.crews.compscience_crew.compscience_crew import CompscienceCrew
+from bartanadvisor.crews.bio_crew.bio_crew import BioCrew
+from bartanadvisor.crews.business_crew.business_crew import BusinessCrew
+from bartanadvisor.crews.compscience_crew.compscience_crew import CompscienceCrew
 load_dotenv()
 
 from pydantic import BaseModel
@@ -16,9 +16,9 @@ from crewai import LLM
 
 import yaml
 
-from tartanadvisor.crews.infosys_crew.infosys_crew import InfosysCrew
+from bartanadvisor.crews.infosys_crew.infosys_crew import InfosysCrew
 
-from tartanadvisor.faiss_store import STORES
+from bartanadvisor.faiss_store import STORES
 
 llm = LLM(model = os.getenv("MODEL_REASONING"))
 

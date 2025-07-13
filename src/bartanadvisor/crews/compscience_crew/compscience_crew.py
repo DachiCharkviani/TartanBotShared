@@ -1,18 +1,16 @@
 from crewai import Agent, Crew, Process, Task
 from crewai.project import CrewBase, agent, crew, task
 from crewai.agents.agent_builder.base_agent import BaseAgent
-from typing import List, Optional, Any
-import yaml
-from pathlib import Path
-# from tartanadvisor.src.tartanadvisor.faiss_store import tools
-from tartanadvisor.tools.custom_tool import SearchAdvisingBATool, SearchAdvisingISTool, SearchAdvisingCSTool, SearchAdvisingBioTool, SearchCoursesTool
+from typing import List
+
+from bartanadvisor.tools.custom_tool import SearchAdvisingCSTool, SearchCoursesTool
 # If you want to run a snippet of code before or after the crew starts,
 # you can use the @before_kickoff and @after_kickoff decorators
 # https://docs.crewai.com/concepts/crews#example-crew-class-with-decorators
 
 @CrewBase
-class InfosysCrew():
-    """InfosysCrew crew"""
+class CompscienceCrew():
+    """CompscienceCrew crew"""
 
     agents: List[BaseAgent]
     tasks: List[Task]
@@ -24,10 +22,10 @@ class InfosysCrew():
     # If you would like to add tools to your agents, you can learn more about it here:
     # https://docs.crewai.com/concepts/agents#agent-tools
     @agent
-    def information_systems_advisor(self) -> Agent:
+    def computer_science_advisor(self) -> Agent:
         return Agent(
-            config=self.agents_config['information_systems_advisor'], # type: ignore[index]
-            tools = [SearchAdvisingISTool()],
+            config=self.agents_config['computer_science_advisor'], # type: ignore[index]
+            tools = [SearchAdvisingCSTool()],
             verbose=True
         )
     
@@ -70,21 +68,14 @@ class InfosysCrew():
 
     @crew
     def crew(self) -> Crew:
-        """Creates the InfosysCrew crew"""
+        """Creates the CompscienceCrew crew"""
         # To learn how to add knowledge sources to your crew, check out the documentation:
         # https://docs.crewai.com/concepts/knowledge#what-is-knowledge
 
-        # manager = Agent(
-        #     config=self.agents_config['project_manager'],
-        #     allow_delegation=True,
-        # )
-        print('start2')
         return Crew(
             agents=self.agents, # Automatically created by the @agent decorator
             tasks=self.tasks, # Automatically created by the @task decorator
-            # manager_agent=manager,  # Use your custom manager agent
-            # process=Process.hierarchical, # In case you wanna use that instead https://docs.crewai.com/how-to/Hierarchical/
-            # planning=True,
             process=Process.sequential,
-            verbose=True
+            verbose=True,
+            # process=Process.hierarchical, # In case you wanna use that instead https://docs.crewai.com/how-to/Hierarchical/
         )

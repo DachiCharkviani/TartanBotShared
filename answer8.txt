@@ -1,28 +1,24 @@
-# Information Systems Course 67-262: Database Design and Development – Prerequisite Information
+# Information Systems Core Requirements for 67-373
 
-## Official Prerequisite (per course catalog)
-- You must have earned at least a 'D' grade in any one of the following courses **prior to enrolling**:
-    - 15-112: Fundamentals of Programming and Computer Science
-    - 02-120: Programming for Scientists
-    - 15-122: Principles of Imperative Computation
-    - 15-121: Introduction to Data Structures
+## Required Core Courses
+To fulfill the requirements for the 67-373 Information Systems course, you must take and satisfy all of the following core courses:
 
-## Equivalent Experience & Exceptions
-- If you have not completed the exact listed courses but have **equivalent programming experience**, you should:
-    - Consult with the IS academic advisor.
-    - Check the official course registration system for current prerequisite policies.
+- 67-100
+- 67-200
+- 67-250
+- 67-262
+- 67-272
+- 67-373 (the course itself, and a core requirement)
+- 17-313
 
-## Advising Documents and Curriculum Placement
-- No explicit course prerequisite for 67-262 is listed in the available advising documents.
-- 67-262 is scheduled for the second-year fall semester in the curriculum.
-- It is preceded by 67-250: The Information Systems Milieux (taken in first-year spring) in the typical sequence, suggesting:
-    - 67-250 may serve as an **informal prerequisite** or recommended background, although this is not a formal requirement.
+## Elective Options Within the Core
+You are also required to take one course from each of the following groups:
 
-## Verification for Special Cases
-- For students with unique academic backgrounds or using equivalent coursework:
-    - Direct verification with the IS academic advisor or review of the official registration system is recommended to confirm current prerequisites.
+- Either **95-422** or **67-382**
+- Either **05-391**, **05-410**, **05-452**, or **05-897**
+
+## Prerequisite Clarification
+There are no explicitly stated prerequisites for 67-373 other than its standing as one of the core courses required for the Information Systems major.
 
 ## Summary
-- **Concrete requirement:** 'D' or better in one of 15-112, 02-120, 15-122, or 15-121.
-- **Strongly recommended:** Background in 67-250, though not formally required.
-- **Action for nonstandard circumstances:** Contact advisor and consult the registration system for possible exceptions or updates.
+To satisfy the Information Systems Core for 67-373, you must complete all the specified core courses and select the appropriate courses from the indicated elective groups. There are no additional prerequisites listed for 67-373 beyond its inclusion in the core curriculum sequence.

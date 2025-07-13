@@ -3,14 +3,14 @@ from crewai.project import CrewBase, agent, crew, task
 from crewai.agents.agent_builder.base_agent import BaseAgent
 from typing import List
 
-from tartanadvisor.tools.custom_tool import SearchAdvisingBioTool, SearchCoursesTool
+from bartanadvisor.tools.custom_tool import SearchAdvisingBATool, SearchCoursesTool
 # If you want to run a snippet of code before or after the crew starts,
 # you can use the @before_kickoff and @after_kickoff decorators
 # https://docs.crewai.com/concepts/crews#example-crew-class-with-decorators
 
 @CrewBase
-class BioCrew():
-    """BioCrew crew"""
+class BusinessCrew():
+    """BusinessCrew crew"""
 
     agents: List[BaseAgent]
     tasks: List[Task]
@@ -22,10 +22,10 @@ class BioCrew():
     # If you would like to add tools to your agents, you can learn more about it here:
     # https://docs.crewai.com/concepts/agents#agent-tools
     @agent
-    def biological_sciences_advisor(self) -> Agent:
+    def business_administration_advisor(self) -> Agent:
         return Agent(
-            config=self.agents_config['biological_sciences_advisor'], # type: ignore[index]
-            tools = [SearchAdvisingBioTool()],
+            config=self.agents_config['business_administration_advisor'], # type: ignore[index]
+            tools = [SearchAdvisingBATool()],
             verbose=True
         )
     
@@ -68,7 +68,7 @@ class BioCrew():
 
     @crew
     def crew(self) -> Crew:
-        """Creates the BioCrew crew"""
+        """Creates the BusinessCrew crew"""
         # To learn how to add knowledge sources to your crew, check out the documentation:
         # https://docs.crewai.com/concepts/knowledge#what-is-knowledge
 
