@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "BS_Concentrations",
+    "Source": "http://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/#optionsforthebsinbiologicalsciencestextcontainer"
+  },
+  {
+    "Name": "BS_Requirements",
+    "Source": "http://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofbiologicalsciences/#bsinbiologicalsciencestextcontainer"
+  },
+  {
+    "Name": "BS_sample_curriculum",
+    "Source": "./Courses order-Bio Sci w pre-reqs-2025"
+  },
+  {
+    "Name": "CMUQ_BS_Advivising_Document",
+    "Source": "Taken from the combination of other department's advising handbooks that are general information, and from the combination of other entries' links in this document"
+  }
+]

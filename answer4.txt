@@ -1,0 +1,12 @@
+# Prerequisites for Information Systems Course 67-272 (Application Design and Development)
+
+## Course Prerequisites
+- You must have completed either **15-122** or **15-121** with at least a grade of D.
+- You must have completed **67-262** with at least a grade of D.
+
+## Additional Requirements for Related Groups of Courses
+- Complete at least **one course** from the enabling methods, techniques, and tools group of courses.
+- Complete at least **one course** from the cross-cutting topics group of courses.
+- Complete at least **one IS course** relevant to the chosen concentration.
+- Complete **3 courses in total** (equaling 27 units).
+- Complete a **summative course** or an equivalent approved substitute (9 units).

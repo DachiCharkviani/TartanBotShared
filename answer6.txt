@@ -1,0 +1,33 @@
+# Graduation Requirements for a Bachelor's Degree in Computer Science
+
+## Total Units
+- **360 units required to graduate.**
+
+## Core Requirements
+- **Core@CMU:** 99-103 units required.
+
+## Computer Science Courses
+- **Core CS Courses:** Complete 7 out of 9 core CS courses.
+- **Constrained CS Electives:** Take 4 electives, one each from the following domains:
+  - Domains
+  - Artificial Intelligence (AI)
+  - Logic & Languages
+  - Systems
+- **General CS Electives:** 2 electives, each at least 9 units (independent study or senior thesis may substitute).
+
+## Mathematics and Communication
+- **Math:** Complete 6 out of 7 required Math courses.
+- **Technical Communication:** 1 course required.
+
+## General Education
+- **Science/Engineering:**
+  - Take 4 courses, each at least 9 units.
+  - Two courses must be from the same science/engineering department.
+  - At least one must be a lab course (if less than 9 units, such as Chem 101, still requires 4 science courses beyond labs).
+  - Astronomy with lab (courses 33-124 and 33-126) does NOT count for this requirement.
+- **Humanities/Arts:** 63 units (approximately 7 courses) required.
+
+## Ethics
+- **Ethics Course:** Required for graduation.
+
+**All of the above requirements must be completed to be eligible for graduation with a bachelor's degree in Computer Science.**

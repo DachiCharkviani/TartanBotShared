@@ -1,0 +1,28 @@
+# Information Systems Course 67-262: Database Design and Development – Prerequisite Information
+
+## Official Prerequisite (per course catalog)
+- You must have earned at least a 'D' grade in any one of the following courses **prior to enrolling**:
+    - 15-112: Fundamentals of Programming and Computer Science
+    - 02-120: Programming for Scientists
+    - 15-122: Principles of Imperative Computation
+    - 15-121: Introduction to Data Structures
+
+## Equivalent Experience & Exceptions
+- If you have not completed the exact listed courses but have **equivalent programming experience**, you should:
+    - Consult with the IS academic advisor.
+    - Check the official course registration system for current prerequisite policies.
+
+## Advising Documents and Curriculum Placement
+- No explicit course prerequisite for 67-262 is listed in the available advising documents.
+- 67-262 is scheduled for the second-year fall semester in the curriculum.
+- It is preceded by 67-250: The Information Systems Milieux (taken in first-year spring) in the typical sequence, suggesting:
+    - 67-250 may serve as an **informal prerequisite** or recommended background, although this is not a formal requirement.
+
+## Verification for Special Cases
+- For students with unique academic backgrounds or using equivalent coursework:
+    - Direct verification with the IS academic advisor or review of the official registration system is recommended to confirm current prerequisites.
+
+## Summary
+- **Concrete requirement:** 'D' or better in one of 15-112, 02-120, 15-122, or 15-121.
+- **Strongly recommended:** Background in 67-250, though not formally required.
+- **Action for nonstandard circumstances:** Contact advisor and consult the registration system for possible exceptions or updates.

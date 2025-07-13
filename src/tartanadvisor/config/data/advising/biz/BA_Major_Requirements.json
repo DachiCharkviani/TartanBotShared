@@ -1,0 +1,68 @@
+[
+    {
+        "Name":"Business Foundations - Mathematics",
+        "Constraints":"Satisfy all of the courses requirements",
+        "Allowed_Courses":"(21-120 or (21-111 and 21-112)) and (21-256 or 21-259) and (70-257 or (21-257 and 21-292))"
+    },
+    {
+        "Name":"Business Foundations - Economics",
+        "Constraints":"Satisfy all of the courses requirements",
+        "Allowed_Courses":"(73-102 or 73-104) and 73-103 and (73-230 or 73-240)"
+    },
+    {
+        "Name":"Business Foundations - Statistics",
+        "Constraints":"Satisfy all of the courses requirements",
+        "Allowed_Courses":"(70-207 or 36-200) and (70-208 or 36-202)"
+    },
+    {
+        "Name":"Business Core",
+        "Constraints":"Satisfy all of the courses requirements",
+        "Allowed_Courses":"(70-106 and 70-110 and 70-122 and 70-311 and 70-332 and 70-340 and 70-345 and 70-371 and 70-381 and 70-391 and 70-104 and 70-204 and 70-304 and (70-401 or 70-447))"
+    },
+    {
+        "Name":"Concentration",
+        "Constraints":"Satisfy requirements as outlined in the BA_Concentrations.json file",
+        "Allowed_Courses":"As outlined in the BA_Concentrations.json file"
+    },
+    {
+        "Name":"Business Electives",
+        "Constraints":"Satisfy 18 units from the allowed courses",
+        "Allowed_Courses":"Any 70-3xx course, and any 73-3xx, and 21-270"
+    },
+    {
+        "Name":"Minor",
+        "Constraints":"Refer to the individual minor .json file and satisfy all the requirements",
+        "Allowed_Courses":"Refer to the individual minor .json file"
+    },
+    {
+        "Name":"University Core Requirement 1 CMU FIRST YEAR WRITING",
+        "Constraints":"Take 9 units worth of allowed courses",
+        "Allowed_Courses":"76-101 or 76-102 or 76-106 or 76-107 or 76-108"
+    },
+    {
+        "Name":"University Core Requirement 2 Scientific Reasoning",
+        "Constraints":"Take more than 9 units worth of allowed courses",
+        "Allowed_Courses":"Any Biological Sciences course 03-100 or higher, Any Computer Sciences course 15-100 or higher, Any Physics course 33-100 or higher, Any Chemistry course 09-100 or higher, Any Psychology course 85-102 or higher"
+    },
+    {
+        "Name":"University Core Requirement 3 INFORMATIONAL LITERACY",
+        "Constraints":"Take more than 9 units worth of allowed courses",
+        "Allowed_Courses":"Any Philosophy course 80-100 or higher, Any Information Systems course 67-100 or higher, The following courses from Social and Decision Sciences: 88-120 Reason, Passion and Cognition, 88-230 Human Intelligence and Human Stupidity, 88-255 Strategic Decision Making, 88-275 Bubbles: Data Science for Human Minds"
+    },
+    {
+        "Name":"University Core Requirement 4 GLOBAL, CULTURAL, AND DIVERSE PERSPECTIVES",
+        "Constraints":"Take more than 18 units worth of allowed courses",
+        "Allowed_Courses":"Any History course 79-100 or higher, Any English course 76-200 or higher, Any Languages, Cultures, and Applied Linguistics course 82-100 or higher"
+    },
+    {
+        "Name":"University Core Requirement 5 FREE ELECTIVES",
+        "Constraints":"Take more than 18 units worth of allowed courses",
+        "Allowed_Courses":"Any Carnegie Mellon academic course excluding Business (70-xxx), Economics (73-xxx), Physical Education (69-xxx), StuCo [Student-Led] (98-xxx), or 21-270 Introduction to Mathematical Finance."
+    },
+    {
+        "Name":"CORE @ CARNEGIE MELLON",
+        "Constraints":"Take all the allowed courses",
+        "Allowed_Courses":"All undergraduate students are required to take 99-101 CORE @ Carnegie Mellon to graduate (completed during the first year)."
+    }
+    
+]

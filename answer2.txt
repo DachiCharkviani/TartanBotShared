@@ -1,0 +1,42 @@
+Course Code: 67-272  
+Course Name: Application Design and Development  
+Units: 12.0
+
+Course Description  
+This course prepares students in the design and development of software applications, emphasizing user-centered design. Students will develop a prototype web application as a major project. Core learning includes designing relational databases, rapid acquisition of new programming languages, employing the Model-View-Controller (MVC) software pattern, ensuring technical quality, and applying user-centered design principles. The course is a required component of the Information Systems core.
+
+Prerequisites  
+- One of the following programming courses with a minimum grade of D:
+  - 15-122 "Principles of Imperative Computation"
+  - 15-121 "Introduction to Data Structures"
+AND
+- 67-262 "Database Design and Development" with a minimum grade of D
+
+Corequisites  
+None.
+
+Anti-Requisites  
+None.
+
+Required Prior Knowledge  
+- Proficiency in introductory programming concepts (from 15-121 or 15-122)
+- Completion of introductory database design and development (from 67-262)
+
+Curricular Placement within IS Major  
+67-272 is a required core course for all Information Systems majors. The full set of IS Core courses includes:
+- 67-100
+- 67-200
+- 67-250
+- 67-262
+- 67-272
+- 67-373
+- 17-313
+- (95-422 or 67-382)
+- (05-391 or 05-410 or 05-452 or 05-897)
+All these courses must be completed to satisfy the core requirements of the Information Systems major.
+
+Location Offerings  
+No specific location noted; applies to all Information Systems major students.
+
+Notes  
+This information is current as per the official course catalog and IS advising documentation. For future updates or changes, refer to the latest catalog or program advising resources.

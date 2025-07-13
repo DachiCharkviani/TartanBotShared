@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "BA_Major_Concentrations",
+    "Source": "http://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduatebusinessadministrationprogram/#concentrationstextcontainer"
+  },
+  {
+    "Name": "BA_Major_Requirements",
+    "Source": "http://coursecatalog.web.cmu.edu/schools-colleges/tepper/undergraduatebusinessadministrationprogram/#bsinbusinessadministrationtextcontainer"
+  },
+  {
+    "Name": "BA_Major_sample_curriculum",
+    "Source": "https://www.qatar.cmu.edu/academics-research/academics/business-administration/sample-course-schedule-business-administration/"
+  },
+  {
+    "Name": "CMUQ_BA_Advivising_Document",
+    "Source": "./tup-handbook-2024-2025"
+  }
+]

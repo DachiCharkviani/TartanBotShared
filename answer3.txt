@@ -1,0 +1,78 @@
+# Comprehensive Report on 67-272 Application Design and Development: Prerequisites and Course Requirements
+
+## Prerequisites
+
+To enroll in **67-272 Application Design and Development (12.0 units)**, students must satisfy the following prerequisite requirements:
+
+- **15-121 (Introduction to Data Structures)** with a minimum grade of **D**,  
+  **OR**  
+  **15-122 (Principles of Imperative Computation)** with a minimum grade of **D**
+- **67-262 (Database Design and Development)** with a minimum grade of **D**
+
+*“Course 67-272 Application Design and Development (12.0 units) requires, as prerequisites, either 15-121 (at least D) or 15-122 (at least D) and 67-262 (at least D).”*
+
+---
+
+## Course Content / Units
+
+**67-272 Application Design and Development** is a 12.0 unit course. In the context of the concentration, the following requirements apply:
+
+- **Course Units:**  
+  - The course itself is 12 units  
+  - For concentration completion (see below), students must also complete:
+    - A minimum of **three relevant IS courses** (totaling 27 units)
+    - **One summative course or approved substitute** (9 units)
+
+- **Required Course Groupings:**  
+  To fulfill the concentration, students must take at least:
+  - **One course from the Enabling Methods group**
+  - **One course from the Cross-Cutting Topics group**
+  - **One other relevant IS course**
+
+---
+
+## Completion Requirements
+
+To complete the concentration (which 67-272 may be a part of), students must meet the following conditions:
+
+1. **Prerequisite Completion:**  
+    - All prerequisite courses listed above must be completed with at least a grade of D.
+
+2. **Coursework:**
+    - Complete a minimum of **three relevant IS courses** (totaling 27 units), which includes:
+        - At least **one course** from the **Enabling Methods group**
+        - At least **one course** from the **Cross-Cutting Topics group**
+        - At least **one other relevant IS course** (this may overlap with 67-272 itself if it fulfills a group requirement)
+
+3. **Summative Course:**
+    - Complete a **summative course or its approved substitute** (9 units)
+
+4. **Total Units:**
+    - Complete a total of **27 coursework units** (from at least three IS courses as outlined), **plus the summative course** (for a total of at least 36 units)
+
+5. **Corequisite Arrangements:**
+    - “Corequisite arrangements [are] possible under exceptional circumstances.” Students who do not meet prerequisites may be allowed concurrent enrollment with approval.
+
+6. **All Requirements Must Be Met for Completion:**
+    - “All 27 coursework units and the summative course are required for completion…”
+
+---
+
+## Summary of Requirements
+
+- **Prerequisite Courses:**  
+    - 15-121 or 15-122 (min. grade D)
+    - 67-262 (min. grade D)
+- **Course Group Requirements for Concentration:**  
+    - At least one each from: Enabling Methods group, Cross-Cutting Topics group, and another relevant IS course 
+    - At least three IS courses in total (minimum of 27 units)
+- **Summative Requirement:**  
+    - One summative course or approved substitute (9 units)
+- **Units Required:**  
+    - Total of 27 coursework units + 9 summative course units
+- **Enrollment Conditions:**  
+    - All prerequisites must be met unless exceptional, approved corequisite arrangement is granted.
+
+---
+
+> **All conditions listed above must be satisfied to enroll in and complete the 67-272 Application Design and Development course and relevant concentration requirements. Omitting any prerequisite, course grouping, unit, or summative requirement will result in incomplete eligibility or fulfillment of the program.**

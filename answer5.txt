@@ -1,0 +1,75 @@
+# Graduation Requirements for B.S. in Information Systems  
+(Dietrich College of Humanities and Social Sciences, Carnegie Mellon University)
+
+## Total Units Required
+- **360 units** to graduate
+
+---
+
+## Technical Core
+- **Mathematics:** 1 course
+- **Computer Science:** 3 courses
+
+---
+
+## Curriculum Structure
+- **Core Courses:** 8 required
+- **Breadth Courses:** 3 required
+
+---
+
+## General Education (GenEd) Requirements
+- **Foundations:** 6 requirements
+- **Disciplinary Perspectives:** 5 requirements
+  - *Logic/Mathematical Reasoning:* Minimum of 9 units from approved catalog (e.g., 21-127, 80-210, 73-155, 73-347, 79-175, 80-312)
+- **Special Seminars:** 2 requirements
+
+---
+
+## Minor or Concentration
+- **Completion of a Minor or Concentration** is mandatory.
+
+---
+
+## Additional Degree Requirements
+- **At least one course from each group:**
+  - Technical Core group
+  - Regulatory and Behavioral Core group
+- **At least one Information Systems (IS) course relevant to the chosen concentration**
+- **Concentration requirements:**
+  - 3 concentration courses (minimum 27 units)
+  - 1 summative/capstone course or approved substitute (9 units)
+
+### Example: Security and Privacy Concentration Courses
+- **Section A (choose from):**
+  - 67-380 Information Systems Security
+  - 67-223 Digital Trace and Identity
+  - 67-301 Networks and Telecommunications
+  - 15-316 Software Foundations of Security and Privacy
+  - 67-367 Information Warfare
+  - 67-384 Digital and Cybercrime
+  - 67-404 Blockchain Applications
+- **Section B (choose from):**
+  - 67-313 Digital Risk Management and Auditing
+  - 67-415 Cyber Ethics and Regulation
+  - 17-334 Usable Privacy and Security
+- **Summative course:** 
+  - 67-427 Concentration Capstone (Security and Privacy) or approved substitute
+
+---
+
+## Requirements for Credit (Independent Study, Research, Internships)
+- Research/project must relate to information systems
+- Faculty sponsor must be IS Program-affiliated
+- Application due by end of first class week
+- Written agreement on assignments, due dates, progress reviews, and grading criteria prior to application
+
+---
+
+## Compliance
+- **Every requirement must be satisfied as detailed above** to be awarded the B.S. in Information Systems.
+
+---
+
+**Source**: Official CMU Course Catalog  
+http://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/informationsystems/#curriculumtextcontainer

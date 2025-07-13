@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "IS_Concentrations",
+    "Source": "./IS Concentrations_ Information and Guidelines"
+  },
+  {
+    "Name": "IS_Requirements",
+    "Source": "http://coursecatalog.web.cmu.edu/schools-colleges/dietrichcollegeofhumanitiesandsocialsciences/informationsystems/#curriculumtextcontainer"
+  },
+  {
+    "Name": "IS_sample_curriculum",
+    "Source": "https://www.qatar.cmu.edu/academics-research/academics/information-systems/sample-course-schedule-information-systems/"
+  },
+  {
+    "Name": "CMUQ_IS_Advivising_Document",
+    "Source": "./CMUQ IS Advising Document"
+  },
+  {
+    "Name": "IS_Concentration_FAQ",
+    "Source": "./IS Concentrations_ Information and Guidelines"
+  }
+]

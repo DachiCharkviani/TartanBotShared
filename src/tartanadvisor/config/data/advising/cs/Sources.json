@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "CS_Major_Concentrations",
+    "Source": ["http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/", "http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/#algorithmsandcomplexitytextcontainer", "http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/#computationalbiologytextcontainer", "http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/#computergraphicstextcontainer", "http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/#computersystemstextcontainer", "http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/#humancomputerinteractiontextcontainer", "http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/#languagetechnologiestextcontainer", "http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/#machinelearningtextcontainer", "http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/#principlesofprogramminglanguagestextcontainer", "http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/#roboticstextcontainer", "http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/#securityandprivacytextcontainer", "http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/scsconcentrations/#softwareengineeringtextcontainer"]
+  },
+  {
+    "Name": "CS_Major_Requirements",
+    "Source": "http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/undergraduatecomputerscience/#bscurriculumtextcontainer"
+  },
+  {
+    "Name": "CS_Major_sample_curriculum",
+    "Source": "https://www.qatar.cmu.edu/academics-research/academics/computer-science/sample-course-schedule-computer-science/"
+  },
+  {
+    "Name": "CMUQ_CS_Advivising_Document",
+    "Source": "./CMUQ-SCS-Advising"
+  }
+]
