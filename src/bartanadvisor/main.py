@@ -70,25 +70,25 @@ class AdvisingFlow(Flow[directionState]):
         elif self.state.direction == 'Biological Sciences':
             return 'Biological Sciences'
     
-    @listen('Business Administration')
-    def business_advisor(self):
-        print('starting')
-        result = BusinessCrew().crew().kickoff(inputs={
-                "topic": self.state.user_message
-            })
-        print(f"here is the {result}")
-        self.state.answer = result.raw
-        return result.raw
+    # @listen('Business Administration')
+    # def business_advisor(self):
+    #     print('starting')
+    #     result = BusinessCrew().crew().kickoff(inputs={
+    #             "topic": self.state.user_message
+    #         })
+    #     print(f"here is the {result}")
+    #     self.state.answer = result.raw
+    #     return result.raw
     
-    @listen('Computer Science')
-    def computer_advisor(self):
-        print('starting')
-        result = CompscienceCrew().crew().kickoff(inputs={
-                "topic": self.state.user_message
-            })
-        print(f"here is the {result}")
-        self.state.answer = result.raw
-        return result.raw
+    # @listen('Computer Science')
+    # def computer_advisor(self):
+    #     print('starting')
+    #     result = CompscienceCrew().crew().kickoff(inputs={
+    #             "topic": self.state.user_message
+    #         })
+    #     print(f"here is the {result}")
+    #     self.state.answer = result.raw
+    #     return result.raw
     
     @listen('Information Systems')
     def information_advisor(self):
@@ -100,27 +100,27 @@ class AdvisingFlow(Flow[directionState]):
         self.state.answer = result.raw
         return result.raw
     
-    @listen('Biological Sciences')
-    def bio_advisor(self):
-        print('starting')
-        result = BioCrew().crew().kickoff(inputs={
-                "topic": self.state.user_message
-            })
-        print(f"here is the {result}")
-        self.state.answer = result.raw
-        return result.raw
+    # @listen('Biological Sciences')
+    # def bio_advisor(self):
+    #     print('starting')
+    #     result = BioCrew().crew().kickoff(inputs={
+    #             "topic": self.state.user_message
+    #         })
+    #     print(f"here is the {result}")
+    #     self.state.answer = result.raw
+    #     return result.raw
 
-    @listen(business_advisor)
-    def save_answer_business_administration(self):
-        print("Saving answer")
-        with open("answer7.txt", "w") as f:
-            f.write(self.state.answer)
+    # @listen(business_advisor)
+    # def save_answer_business_administration(self):
+    #     print("Saving answer")
+    #     with open("answer7.txt", "w") as f:
+    #         f.write(self.state.answer)
 
-    @listen(computer_advisor)
-    def save_answer_computer_science(self):
-        print("Saving answer")
-        with open("answer6.txt", "w") as f:
-            f.write(self.state.answer)
+    # @listen(computer_advisor)
+    # def save_answer_computer_science(self):
+    #     print("Saving answer")
+    #     with open("answer6.txt", "w") as f:
+    #         f.write(self.state.answer)
 
     @listen(information_advisor)
     def save_answer_information_systems(self):
@@ -128,11 +128,11 @@ class AdvisingFlow(Flow[directionState]):
         with open("answer8.txt", "w") as f:
             f.write(self.state.answer)
 
-    @listen(bio_advisor)
-    def save_answer_biological_sciences(self):
-        print("Saving answer")
-        with open("answer.txt", "w") as f:
-            f.write(self.state.answer)
+    # @listen(bio_advisor)
+    # def save_answer_biological_sciences(self):
+    #     print("Saving answer")
+    #     with open("answer.txt", "w") as f:
+    #         f.write(self.state.answer)
 
 def kickoff():
     advising_flow = AdvisingFlow()
