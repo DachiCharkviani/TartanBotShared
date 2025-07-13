@@ -13,8 +13,12 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 # Determine project-root-relative paths
 BASE_DIR = Path(__file__).parent  # src/tartanadvisor
 CONFIG_DIR = BASE_DIR / "config" / "data"
-INDEX_DIR = BASE_DIR.parent / "faiss_indexes"
-INDEX_DIR.mkdir(exist_ok=True)
+# INDEX_DIR = BASE_DIR.parent / "faiss_indexes"
+# INDEX_DIR.mkdir(exist_ok=True)
+
+REPO_ROOT  = BASE_DIR.parent.parent             # one level above src/
+INDEX_DIR  = REPO_ROOT / "faiss_indexes"
+INDEX_DIR.mkdir(parents=True, exist_ok=True)
 
 # Configuration paths
 CONFIG = {

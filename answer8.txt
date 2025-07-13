@@ -1,24 +1,29 @@
-# Information Systems Core Requirements for 67-373
+# Information Systems Course 67-373 Requirements
 
-## Required Core Courses
-To fulfill the requirements for the 67-373 Information Systems course, you must take and satisfy all of the following core courses:
+## Course Title and Role
+- **67-373: Information Systems Consulting Project**
+    - A 12-unit core course.
+    - Mandatory for all Information Systems majors.
 
-- 67-100
-- 67-200
-- 67-250
-- 67-262
-- 67-272
-- 67-373 (the course itself, and a core requirement)
-- 17-313
+## Core Curriculum Requirement
+- **67-373** must be completed as part of the Information Systems Core.
+- The complete set of required core courses is:
+    - 67-100
+    - 67-200
+    - 67-250
+    - 67-262
+    - 67-272
+    - 67-373
+    - 17-313
+    - (Choose one: 95-422 or 67-382)
+    - (Choose one: 05-391, 05-410, 05-452, or 05-897)
+- All courses listed above (including 67-373) must be successfully completed to fulfill the core requirement for the major.
 
-## Elective Options Within the Core
-You are also required to take one course from each of the following groups:
-
-- Either **95-422** or **67-382**
-- Either **05-391**, **05-410**, **05-452**, or **05-897**
-
-## Prerequisite Clarification
-There are no explicitly stated prerequisites for 67-373 other than its standing as one of the core courses required for the Information Systems major.
+## Prerequisites and Additional Requirements
+- There are **no additional published prerequisites** for 67-373 itself, aside from its inclusion as a required core course.
+- No further specific requirements for enrollment in 67-373 are mentioned in the official course catalog or advising documentation.
 
 ## Summary
-To satisfy the Information Systems Core for 67-373, you must complete all the specified core courses and select the appropriate courses from the indicated elective groups. There are no additional prerequisites listed for 67-373 beyond its inclusion in the core curriculum sequence.
+- **67-373 is mandatory** as part of the Information Systems Core for majors.
+- **No special prerequisites** beyond being an Information Systems major and completing the listed core courses.
+- Completion of **all core courses**, including 67-373, is required for the Information Systems degree.
