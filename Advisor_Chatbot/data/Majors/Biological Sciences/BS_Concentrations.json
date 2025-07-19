@@ -1,0 +1,138 @@
+[
+  {
+    "Concentration Name": "Biochemistry Option",
+    "Concentration Description": "The Biochemistry option provides advanced training in the chemical processes underlying biological systems, including metabolism, enzyme kinetics, and structural biochemistry. :contentReference[oaicite:0]{index=0}",
+    "Career Paths": "Biochemist, Pharmaceutical Researcher, Molecular Biologist, Biotechnology Scientist, Drug Development Specialist",
+    "Concentration Course Requirements Section A": [
+      "03-231 Honors Biochemistry (or 03-232 Biochemistry I) (9 units)",
+      "03-344 Experimental Biochemistry (12 units)"
+    ],
+    "Concentration Course Requirements Section B": [
+      "Choose two of the following (9–12 units each):",
+      "03-740 Advanced Biochemistry (12 units)",
+      "03-442 Molecular Biology (9 units)",
+      "03-435 Cancer Biology (9 units)"
+    ],
+    "Summative Course": "No summative course needed to complete this concentration as a Biological Sciences major.",
+    "Concentration Contact Personnel": "Your individual advisor"
+  },
+  {
+    "Concentration Name": "Biophysics Option",
+    "Concentration Description": "The Biophysics option emphasizes the application of physical principles to biological systems, covering topics such as molecular dynamics, structural biophysics, and quantitative modeling. :contentReference[oaicite:1]{index=1}",
+    "Career Paths": "Biophysicist, Structural Biologist, Computational Biologist, Medical Physicist, Biophysical Researcher",
+    "Concentration Course Requirements Section A": [
+      "03-439 Introduction to Biophysics (10 units)",
+      "03-871 Structural Biophysics (12 units)"
+    ],
+    "Concentration Course Requirements Section B": [
+      "Choose two of the following (9–12 units each):",
+      "03-742 Advanced Molecular Biology (12 units)",
+      "03-435 Cancer Biology (9 units)",
+      "03-442 Molecular Biology (9 units)"
+    ],
+    "Summative Course": "No summative course needed to complete this concentration as a Biological Sciences major.",
+    "Concentration Contact Personnel": "Your individual advisor"
+  },
+  {
+    "Concentration Name": "Cell Biology Option",
+    "Concentration Description": "The Cell Biology option offers focused coursework on cellular structure and function, including signal transduction, cell cycle regulation, and cytoskeletal dynamics. :contentReference[oaicite:2]{index=2}",
+    "Career Paths": "Cell Biologist, Cancer Researcher, Developmental Biologist, Stem Cell Researcher, Tissue Engineering Scientist",
+    "Concentration Course Requirements Section A": [
+      "03-320 Cell Biology (9 units)",
+      "03-741 Advanced Cell Biology (12 units)"
+    ],
+    "Concentration Course Requirements Section B": [
+      "Choose two of the following (9–12 units each):",
+      "03-442 Molecular Biology (9 units)",
+      "03-435 Cancer Biology (9 units)",
+      "03-409 Applied Cell Biology (var. units)"
+    ],
+    "Summative Course": "No summative course needed to complete this concentration as a Biological Sciences major.",
+    "Concentration Contact Personnel": "Your individual advisor"
+  },
+  {
+    "Concentration Name": "Computational Biology Option",
+    "Concentration Description": "The Computational Biology option integrates computational methods and algorithms with biological data analysis, covering genomic sequence analysis, systems biology, and bioinformatics. :contentReference[oaicite:3]{index=3}",
+    "Career Paths": "Computational Biologist, Bioinformatician, Genomics Data Scientist, Systems Biology Researcher, Biostatistician",
+    "Concentration Course Requirements Section A": [
+      "02-250 Introduction to Computational Biology (12 units)",
+      "03-511 Computational Molecular Biology and Genomics (9 units) or 03-711 Computational Molecular Biology and Genomics (12 units)"
+    ],
+    "Concentration Course Requirements Section B": [
+      "Choose two of the following (9–12 units each):",
+      "03-327 Evolutionary Bioinformatics: Trees, Sequences and the Comparative Method (9 units)",
+      "03-713 Bioinformatics Data Integration Practicum (6 units)",
+      "02-512 Computational Methods for Biological Modeling and Simulation (9 units)"
+    ],
+    "Summative Course": "No summative course needed to complete this concentration as a Biological Sciences major.",
+    "Concentration Contact Personnel": "Your individual advisor"
+  },
+  {
+    "Concentration Name": "Developmental Biology Option",
+    "Concentration Description": "The Developmental Biology option covers the molecular and cellular mechanisms underlying organismal development, including pattern formation, differentiation, and morphogenesis. :contentReference[oaicite:4]{index=4}",
+    "Career Paths": "Developmental Biologist, Stem Cell Researcher, Regenerative Medicine Scientist, Geneticist, Developmental Geneticist",
+    "Concentration Course Requirements Section A": [
+      "03-350 Developmental Biology (9 units)",
+      "03-451 Advanced Developmental Biology and Human Health (9 units)"
+    ],
+    "Concentration Course Requirements Section B": [
+      "Choose two of the following (9–12 units each):",
+      "03-344 Experimental Biochemistry (12 units)",
+      "03-345 Experimental Cell and Developmental Biology (12 units)",
+      "03-343 Experimental Techniques in Molecular Biology (12 units)"
+    ],
+    "Summative Course": "No summative course needed to complete this concentration as a Biological Sciences major.",
+    "Concentration Contact Personnel": "Your individual advisor"
+  },
+  {
+    "Concentration Name": "Genetics Option",
+    "Concentration Description": "The Genetics option provides advanced coursework on genetic mechanisms, genomic technologies, and evolutionary genetics, including quantitative and population genetics. :contentReference[oaicite:5]{index=5}",
+    "Career Paths": "Geneticist, Genomics Researcher, Genetic Counselor, Agricultural Biotechnologist, Evolutionary Biologist",
+    "Concentration Course Requirements Section A": [
+      "03-220 Genetics (9 units)",
+      "03-730 Advanced Genetics (var. units)"
+    ],
+    "Concentration Course Requirements Section B": [
+      "Choose two of the following (9 units each):",
+      "03-327 Evolutionary Bioinformatics: Trees, Sequences and the Comparative Method (9 units)",
+      "03-360 Genomics and Epigenetics of the Brain (9 units)",
+      "03-513 (if offered) Computational Genomics (12 units)"
+    ],
+    "Summative Course": "No summative course needed to complete this concentration as a Biological Sciences major.",
+    "Concentration Contact Personnel": "Your individual advisor"
+  },
+  {
+    "Concentration Name": "Molecular Biology Option",
+    "Concentration Description": "The Molecular Biology option focuses on the molecular mechanisms of gene expression, DNA replication, and protein synthesis, with an emphasis on modern molecular techniques. :contentReference[oaicite:6]{index=6}",
+    "Career Paths": "Molecular Biologist, Research Scientist, Biotech R&D Specialist, Molecular Diagnostics Technologist, Academic Researcher",
+    "Concentration Course Requirements Section A": [
+      "03-442 Molecular Biology (9 units)",
+      "03-742 Advanced Molecular Biology (12 units)"
+    ],
+    "Concentration Course Requirements Section B": [
+      "Choose two of the following (9–12 units each):",
+      "03-343 Experimental Techniques in Molecular Biology (12 units)",
+      "03-344 Experimental Biochemistry (12 units)",
+      "03-409 Applied Cell Biology (var. units)"
+    ],
+    "Summative Course": "No summative course needed to complete this concentration as a Biological Sciences major.",
+    "Concentration Contact Personnel": "Your individual advisor"
+  },
+  {
+    "Concentration Name": "Neuroscience Option",
+    "Concentration Description": "The Neuroscience option offers advanced electives in neural systems, cellular and molecular neurobiology, and computational neuroscience methodologies. :contentReference[oaicite:7]{index=7}",
+    "Career Paths": "Neuroscientist, Neuroengineer, Cognitive Scientist, Neural Data Analyst, Neuropharmacologist",
+    "Concentration Course Requirements Section A": [
+      "03-362 Cellular Neuroscience (units vary)",
+      "03-763 Advanced Systems Neuroscience (12 units)"
+    ],
+    "Concentration Course Requirements Section B": [
+      "Choose two of the following (9 units each):",
+      "03-363 Systems Neuroscience (9 units)",
+      "03-365 Neural Correlates of Learning and Memory (9 units)",
+      "03-366 Neuropharmacology: Drugs, Brain and Behavior (9 units)"
+    ],
+    "Summative Course": "No summative course needed to complete this concentration as a Biological Sciences major.",
+    "Concentration Contact Personnel": "Your individual advisor"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "Biological Sciences Core Requirements",
+    "Constraints": "Complete all of the following courses (or approved equivalents)",
+    "Allowed_Courses": "03-151 Honors Modern Biology (10) or 03-121 Modern Biology; 03-201 Undergraduate Colloquium for Sophomores (2); 03-220 Genetics (9) or 03-221 Genomes, Evolution, and Disease: Introduction to Quantitative Genetic Analysis (9); 03-231 Honors Biochemistry (9) or 03-232 Biochemistry I (9); 02-250 Introduction to Computational Biology (12); 03-320 Cell Biology (9); 03-343 Experimental Techniques in Molecular Biology (12); 03-344 Experimental Biochemistry (12) or 03-345 Experimental Cell and Developmental Biology (12) or 03-346 Experimental Neuroscience (12); 03-411 Topics in Research (1); 03-412 Topics in Research (1)"
+  },
+  {
+    "Name": "Mathematics, Physics, and Computer Science Requirements",
+    "Constraints": "Complete all of the following courses (or approved equivalents)",
+    "Allowed_Courses": "15-110 Principles of Computing (10) or 15-112 Fundamentals of Programming and Computer Science (10); 21-120 Differential and Integral Calculus (10); 21-124 Calculus II for Biologists and Chemists (10) or 21-122 Integration and Approximation (10); 33-121 Physics I for Science Students (12) or 33-141 Physics I for Engineering Students (12); 33-122 Physics II for Biological Sciences & Chemistry Students (9) or 33-142 Physics II for Engineering and Physics Students (9); 99-101 Computing@CMU (3)"
+  },
+  {
+    "Name": "Chemistry Requirements",
+    "Constraints": "Complete all of the following courses (or approved equivalents)",
+    "Allowed_Courses": "09-105 Introduction to Modern Chemistry I (10) or 09-107 Honors Chemistry: Fundamentals, Concepts and Applications (10); 09-106 Modern Chemistry II (10); 09-217 Organic Chemistry I (9); 09-218 Organic Chemistry II (9); 09-207 Techniques in Quantitative Analysis (9); 09-208 Elective Chemistry (varies)"
+  },
+  {
+    "Name": "Elective Units – Free Electives",
+    "Constraints": "Complete a minimum of 48 elective units",
+    "Allowed_Courses": "Any Carnegie Mellon course outside the required core and breadth categories"
+  },
+  {
+    "Name": "Elective Units – MCS Nontechnical Breadth Requirements",
+    "Constraints": "Complete a minimum of 72 units in nontechnical courses",
+    "Allowed_Courses": "Any course in H&SS, BA, CFA, or other non-STEM departments"
+  },
+  {
+    "Name": "MCS Technical Breadth Requirements – Life Sciences",
+    "Constraints": "Satisfy one of the following Life Sciences requirements",
+    "Allowed_Courses": "Any Life Sciences course except 03-xxx courses (for B.S. Biological Sciences, fulfilled by 02-250)"
+  },
+  {
+    "Name": "MCS Technical Breadth Requirements – Physical Sciences",
+    "Constraints": "Satisfy all of the following Physical Sciences requirements",
+    "Allowed_Courses": "09-105 Introduction to Modern Chemistry I (or 09-107); 09-106 Modern Chemistry II; 33-121 Physics I; 33-122 Physics II"
+  },
+  {
+    "Name": "MCS Technical Breadth Requirements – Math/CS/Stats",
+    "Constraints": "Satisfy all of the following Math/CS/Stats requirements",
+    "Allowed_Courses": "21-120 Differential and Integral Calculus; 21-122 Integration and Approximation or 21-124 Calculus II for Biologists and Chemists"
+  },
+  {
+    "Name": "MCS Technical Breadth Requirements – STEM Elective",
+    "Constraints": "Complete at least one additional approved STEM course",
+    "Allowed_Courses": "Any approved STEM course from the Mellon College of Science list or courses already used above"
+  },
+  {
+    "Name": "Biological Sciences Electives Specifications",
+    "Constraints": "At least 18 units must be at the 03-3xx level or above (excluding 03-445 and 03-545 and interdisciplinary electives). Up to three interdisciplinary electives may count as general biology electives. Up to 18 units of 03-445 Undergraduate Research and/or 03-545 Honors Research may count as general biology electives; a maximum of 36 units of research can count toward the minimum units required for graduation. Courses in biology taken through cross-registration or study abroad may count as electives with prior permission.",
+    "Allowed_Courses": ""
+  },
+  {
+    "Name": "Department Electives",
+    "Constraints": "Choose from the following Biological Sciences courses, subject to Electives Specifications above",
+    "Allowed_Courses": "03-113 Biologies in Text and Film (9); 03-117 Frontiers, Analysis, and Discovery in Biological Sciences (6); 03-118 Beer: A Yeast’s Perspective (6); 03-119 Biology for Life Special Topics Micro (3); 03-120 Biology for Life Special Topics Mini (var.); 03-124 Modern Biology Laboratory (9); 03-125 Evolution (9); 03-128 Biology for Life Special Topics (9); 03-129 Human Health and Disease (9); 03-132 Basic Science to Modern Medicine (9); 03-133 Neurobiology of Disease (9); 03-135 Structure and Function of the Human Body (9); 03-140 Ecology and Environmental Science (9); 03-161 Molecules to Mind (9); 03-230 Introduction to Mammalian Physiology (9); 03-327 Evolutionary Bioinformatics: Trees, Sequences and the Comparative Method (9); 03-350 Developmental Biology (9); 03-351 Computation and Biology Integrated Research Lab (9); 03-360/02-319 Genomics and Epigenetics of the Brain (9); 03-362 Cellular Neuroscience (9); 03-363 Systems Neuroscience (9); 03-365 Neural Correlates of Learning and Memory (9); 03-366 Neuropharmacology: Drugs, Brain and Behavior (9); 03-380 Virology (9); 03-390 Molecular and Cellular Immunology (9); 03-391 Microbiology (9); 03-410 Special Topics in Biological Sciences (var.); 03-435 Cancer Biology (9); 03-439 Introduction to Biophysics (10); 03-442 Molecular Biology (9); 03-445 Undergraduate Research (var.); 03-451 Advanced Developmental Biology and Human Health (9); 03-511 Computational Molecular Biology and Genomics (9); 03-545 Honors Research (9); 03-711 Computational Molecular Biology and Genomics (12); 03-713 Bioinformatics Data Integration Practicum (6); 03-727 Evolutionary Bioinformatics: Trees, Sequences and the Comparative Method (12); 03-728 Genome Editing Biotechnology (6); 03-729 Entrepreneurship and Protein-Based Drug Development (6); 03-730 Advanced Genetics (12); 03-738 Synthetic Biology (6); 03-740 Advanced Biochemistry (12); 03-741 Advanced Cell Biology (12); 03-742 Advanced Molecular Biology (12); 03-751 Advanced Developmental Biology and Human Health (12); 03-762 Advanced Cellular Neuroscience (12); 03-763 Advanced Systems Neuroscience (12); 03-766 Advanced Neuropharmacology: Drugs, Brain and Behavior (12); 03-791 Advanced Microbiology (12); 03-871 Structural Biophysics (12)"
+  },
+  {
+    "Name": "Interdisciplinary Electives",
+    "Constraints": "Up to three of these may count toward General Biology Electives",
+    "Allowed_Courses": "02-331 Modeling Evolution (12); 02-425 Computational Methods for Proteogenomics and Metabolomics (9); 02-450 Automation of Scientific Research (9); 02-510 Computational Genomics (12); 02-512 Computational Methods for Biological Modeling and Simulation (9); 02-518 Computational Medicine (12); 02-740 Bioimage Informatics (12); 09-518 Bioorganic Chemistry: Nucleic Acids and Carbohydrates (9); 09-519 Bioorganic Chemistry: Peptides, Proteins and Combinatorial Chemistry (9); 09-803 Chemistry of Gene Expression (12); 21-127 Concepts of Mathematics (12); 21-259 Calculus in Three Dimensions (10); 21-260 Differential Equations (9); 36-200 Reasoning with Data (9); 42-202 Physiology (9); 85-219 Foundations of Brain and Behavior (9)"
+  }
+]
