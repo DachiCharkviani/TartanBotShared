@@ -1,0 +1,32 @@
+import os
+from dotenv import load_dotenv
+
+load_dotenv(override=True)
+
+API_HOST = os.getenv("API_HOST")
+API_PORT = int(os.getenv("API_PORT"))
+CORS_ORIGINS = [o.strip() for o in os.getenv("CORS_ORIGINS", "*").split(",")]
+
+
+
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+
+HF_EMBEDDING_MODEL = os.getenv("HF_EMBEDDING_MODEL")
+OPENAI_EMBEDDING_MODEL = os.getenv("OPENAI_EMBEDDING_MODEL")
+OPENAI_CHAT_MODEL = os.getenv("OPENAI_CHAT_MODEL")
+
+PERSIST_DIR = os.getenv("PERSIST_DIR")
+
+LANGCHAIN_API_KEY = os.getenv("LANGCHAIN_API_KEY")
+LANGCHAIN_TRACING_V2 = os.getenv("LANGCHAIN_TRACING_V2")
+LANGCHAIN_PROJECT = os.getenv("LANGCHAIN_PROJECT")
+LANGCHAIN_ENDPOINT = os.getenv("LANGCHAIN_ENDPOINT")
+
+FILE_PATH_MINORS = os.getenv("FILE_PATH_MINORS")
+FILE_PATH_ADDMAJORS = os.getenv("FILE_PATH_ADDMAJORS")
+FILE_PATH_COURSES = os.getenv("FILE_PATH_COURSES")
+FILE_PATH_MAJORS = os.getenv("FILE_PATH_MAJORS")
+
+PROGRAMS = os.getenv("PROGRAMS")
+
