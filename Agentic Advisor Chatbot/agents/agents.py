@@ -16,7 +16,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 #from langgraph.checkpoint.memory import MemorySaver
 #from langchain.tools.retriever import create_retriever_tool
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
-from langchain_core.pydantic_v1 import BaseModel, Field
+from pydantic import BaseModel, Field
 from langchain_core.prompts import ChatPromptTemplate, PromptTemplate
 import re
 
