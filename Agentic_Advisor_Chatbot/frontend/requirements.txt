@@ -1,0 +1,5 @@
+streamlit>=1.36
+requests>=2.31
+python-dotenv>=1.0   # only if you use .env in frontend
+validators==0.28.1   # only if imported
+pandas               # only if used
