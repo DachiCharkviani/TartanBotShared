@@ -3,9 +3,9 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 import requests
 import streamlit as st
 from uuid import uuid4
-from backend.settings import API_HOST, API_PORT
+# from backend.settings import API_HOST, API_PORT
 
-API_BASE = os.getenv("API_BASE", f"http://{API_HOST}:{API_PORT}")
+API_BASE = os.getenv("API_BASE").rstrip("/")
 st.set_page_config(page_title="Agentic Advisor Chatbot", layout="centered")
 
 st.title("Agentic Advisor Chatbot")
