@@ -24,7 +24,7 @@ user_input = st.chat_input("Ask me about CMUQ courses...")
 
 if user_input:
     payload = {"session_id": st.session_state.session_id, "message": user_input}
-    r = requests.post(f"{API_BASE}/chat", json=payload, timeout=120)
+    r = requests.post(f"{API_BASE}/chat", json=payload, timeout=1200)
     if r.status_code != 200:
         st.error(f"Backend error: {r.text}")
     else:
